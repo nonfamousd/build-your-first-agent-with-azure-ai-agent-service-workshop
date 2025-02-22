@@ -1,3 +1,5 @@
+## NOTE: This powershell script may be out of date.
+
 Write-Host "Deploying the Azure resources..."
 
 # Define resource group parameters
